@@ -1,7 +1,9 @@
 function ProductManagement() {
   //add products variable here
 
-  function getAllProducts() {}
+  function getAllProducts() {
+    tesefds
+  }
 
   function addProduct(product) {}
 
