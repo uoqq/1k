@@ -5,7 +5,7 @@
   
   <br>
   
-  ## filter คืนค่าelementที่ผ่านเงื่่อนไข (สร้างarrayใหม่่และกรองelementarrayที่ผ่านเงื่่อนไขCallBackFunction(arrowfunctiom)) 
+  ## filter คืนค่าelementที่ผ่านเงื่่อนไข (สร้างarrayใหม่่และกรองelementarrayที่ผ่านเงื่อนไขCallBackFunction(arrowfunctiom)) 
   <br>
   
   ## map คืนค่าทุกelementที่่เราสั่งให้คำนวณ หรือให้เลือกตามcloumnออกมา(ถ้าเป็นobj) (จะทำการreturn arrayใหม่แต่ค่าที่returnออกไปมีจำนวนท่ากับขนาดarrayที่รับมา) 
