@@ -44,5 +44,5 @@
   <br>
   ## join เปลี่ยนarrayเป็นString
   <br>
-  ## วิธีการอ้าง callback function มี 3รูปแบบ 1)arrow function 2)Named function 3)Anonymous function # docsjs # docsjs
-</h3>
+  ### วิธีการอ้าง callback function มี 3รูปแบบ 1)arrow function 2)Named function 3)Anonymous function # docsjs # docsjs
+
