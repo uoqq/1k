@@ -1,6 +1,6 @@
 
   <br>
-  ## forEach ไม่่returnอะไรออกมา แค่พาเข้าไปในแค่elementจนครบ 
+  ! forEach ไม่่returnอะไรออกมา แค่พาเข้าไปในแค่elementจนครบ 
   <br>
   ## filter คืนค่าelementที่ผ่านเงื่่อนไข (สร้างarrayใหม่่และกรองelementarrayที่ผ่านเงื่่อนไขCallBackFunction(arrowfunctiom)) 
   <br>
@@ -44,5 +44,5 @@
   <br>
   ## join เปลี่ยนarrayเป็นString
   <br>
-  ### วิธีการอ้าง callback function มี 3รูปแบบ 1)arrow function 2)Named function 3)Anonymous function # docsjs # docsjs
+  ## วิธีการอ้าง callback function มี 3รูปแบบ 1)arrow function 2)Named function 3)Anonymous function # docsjs # docsjs
 
